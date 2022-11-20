@@ -8,9 +8,8 @@ Maestro: Ing. Uayeb Caballero
 ##
 
 # Presentado Por:
-Elvis Jonathan Ordoñez Cantarero 
-20191003092
-Oned Alejandro Gómez Sauceda 
-20191900030
-Francisco Antonio Caceres Guevara 
-20191000352
+##
+Elvis Jonathan Oridoñez Cantarero 20191003092
+Oned Alejandro Gómez Sauceda 20191900030
+Francisco Antonio Caceres Guevara 20191000352
+##
